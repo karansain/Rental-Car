@@ -54,9 +54,4 @@ lib/
 └── main.dart       # Entry point and Theme setup
 ```
 
-## 📸 Screenshots
 
-*(Add screenshots here)*
-
----
-Developed with ❤️ using Flutter.
