@@ -1,0 +1,21 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+
+  "dart.flutterSdkPath": "",
+  "dart.sdkPath": "",
+
+  "dart.previewFlutterUiGuides": true,
+  "dart.previewFlutterUiGuidesCustomTracking": true,
+
+  "dart.debugExternalLibraries": false,
+  "dart.debugSdkLibraries": false,
+
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  }
+}
